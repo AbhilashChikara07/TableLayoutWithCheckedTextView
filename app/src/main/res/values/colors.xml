@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="colorPrimary">#F44336</color>
+    <color name="colorPrimaryDark">#BFBFBF</color>
+    <color name="colorAccent">#E11F2A</color>
+    <color name="white">#ffffff</color>
+    <color name="red_dark">#e2212a</color>
+    <color name="red_button">#e11f2a</color>
+
+    <!--black swatches-->
+    <color name="black_light">#111111</color>
+    <color name="black">#000000</color>
+    <color name="trans_black">#6D000000</color>
+
+
+    <!--white  swatches-->
+    <color name="white_transparent">#99FFFFFF</color>
+    <color name="white_color">#FFFFFF</color>
+
+    <!--gray  swatches-->
+    <color name="gray_charcoal">#4A4A4A</color>
+    <color name="gray_home_bottom_screen_selected">#585858</color>
+    <color name="gray_charcoal_light">#666666</color>
+    <color name="gray_maintenance_charges_text_color">#757575</color>
+    <color name="gray_charcoal_lightest">#7F7F7F</color>
+    <color name="gray_normal">#828282</color>
+    <color name="gray_light">#A8A8A8</color>
+    <color name="gray_lighter">#AFAFAF</color>
+    <color name="gray_lightest">#D5D5D5</color>
+    <color name="wizard_bottom_unselected">#b2b2b2</color>
+    <color name="wizard_disable_button_color">#e8e8e8</color>
+    <color name="gray_background">#f4f4f4</color>
+    <color name="color_252525">#252525</color>
+    <color name="seprator_color">#dddddd</color>
+    <color name="color_eaeaea">#eaeaea</color>
+    <color name="color_f6f6f6">#f6f6f6</color>
+    <color name="color_f2f2f2">#f2f2f2</color>
+    <color name="wizard_gray_background">#fcfdfd</color>
+
+    <!--colored swatches-->
+    <color name="green_lime">#49C548</color>
+    <color name="green_dark">#FF388E3C</color>
+    <color name="crimson">#F11724</color>
+    <color name="navy_blue">#0082ca</color>
+    <color name="gray_color_9c9c9c">#9c9c9c</color>
+    <color name="gray_color_f3f3f3">#f3f3f3</color>
+    <color name="black_color_080808">#080808</color>
+    <color name="transparent_color_code">#80FFFFFF</color>
+
+
+</resources>

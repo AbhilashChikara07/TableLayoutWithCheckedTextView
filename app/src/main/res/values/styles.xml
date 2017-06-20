@@ -1,0 +1,25 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+
+    <!--Checked Radio Button for Wizard-->
+    <style name="SearchUI.RectangularRadioButton" parent="Base.Widget.AppCompat.CompoundButton.RadioButton">
+        <item name="android:background">@drawable/bg_wizard_radio_button_selector</item>
+        <item name="android:textColor">@drawable/text_selector_wizard_radio_button</item>
+        <item name="android:textSize">@dimen/font_size_14</item>
+        <item name="android:gravity">center</item>
+        <item name="android:padding">@dimen/padding_10</item>
+        <item name="android:button">@null</item>
+        <item name="android:fontFamily">@string/font_family_regular</item>
+        <item name="android:layout_marginTop">@dimen/margin_10</item>
+        <item name="android:layout_marginLeft">@dimen/margin_5</item>
+        <item name="android:layout_marginRight">@dimen/margin_5</item>
+    </style>
+
+</resources>

@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">TableLayoutWithCheckedTextViewExample</string>
+    <string name="wizard_bhk">bhk</string>
+    <string name="wizard_1bhk">1bhk</string>
+    <string name="wizard_2bhk">2bhk</string>
+    <string name="wizard_3bhk">3bhk</string>
+    <string name="wizard_4bhk">4bhk</string>
+    <string name="wizard_5bhk">5bhk</string>
+    <string name="wizard_1rk">1rk</string>
+    <string name="bhk">BHK</string>
+    <string name="rk_1">1 RK</string>
+    <string name="bhk_1">1 BHK</string>
+    <string name="bhk_2">2 BHK</string>
+    <string name="bhk_3">3 BHK</string>
+    <string name="bhk_4">4 BHK</string>
+    <string name="bhk_5">5+ BHK</string>
+
+    <!--Font Family-->
+    <string name="font_family_light">sans-serif-light</string>
+    <string name="font_family_medium">sans-serif-medium</string>
+    <string name="font_family_regular">sans-serif</string>
+    <string name="font_family_black">sans-serif-black</string>
+
+</resources>

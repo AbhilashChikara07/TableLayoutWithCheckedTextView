@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.okutech.tablelayoutwithcheckedtextviewexample.MainActivity">
+
+    <TableLayout
+        android:id="@+id/bhkTL"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/white"
+        android:paddingBottom="@dimen/padding_10"
+        android:paddingLeft="@dimen/padding_5"
+        android:paddingRight="@dimen/padding_5">
+
+        <TableRow android:weightSum="3">
+
+            <CheckedTextView
+                style="@style/SearchUI.RectangularRadioButton"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:tag="@string/wizard_1rk"
+                android:text="@string/rk_1" />
+
+            <CheckedTextView
+                style="@style/SearchUI.RectangularRadioButton"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:tag="@string/wizard_1bhk"
+                android:text="@string/bhk_1" />
+
+            <CheckedTextView
+                style="@style/SearchUI.RectangularRadioButton"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:tag="@string/wizard_2bhk"
+                android:text="@string/bhk_2" />
+
+        </TableRow>
+
+        <TableRow android:weightSum="3">
+
+            <CheckedTextView
+                style="@style/SearchUI.RectangularRadioButton"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:tag="@string/wizard_3bhk"
+                android:text="@string/bhk_3" />
+
+            <CheckedTextView
+                style="@style/SearchUI.RectangularRadioButton"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:tag="@string/wizard_4bhk"
+                android:text="@string/bhk_4" />
+
+            <CheckedTextView
+                style="@style/SearchUI.RectangularRadioButton"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:tag="@string/wizard_5bhk"
+                android:text="@string/bhk_5" />
+
+        </TableRow>
+
+    </TableLayout>
+
+</LinearLayout>
